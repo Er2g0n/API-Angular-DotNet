@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:30:59.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T09:30:48.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T09:27:16.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T09:25:27.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "API\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "API\\Models\\DatabaseContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:13:58.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

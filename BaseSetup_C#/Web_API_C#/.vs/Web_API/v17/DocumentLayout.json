@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6682D4F-E9C6-4915-9C70-72733D130E88}|API_Service\\Data\\Data.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_service\\data\\accountp\\accountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6682D4F-E9C6-4915-9C70-72733D130E88}|API_Service\\Data\\Data.csproj|solutionrelative:api_service\\data\\accountp\\accountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726FEA07-75DA-4CAE-AFC2-4DABF8769035}|API_Service\\Core\\Core.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_service\\core\\models\\account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726FEA07-75DA-4CAE-AFC2-4DABF8769035}|API_Service\\Core\\Core.csproj|solutionrelative:api_service\\core\\models\\account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631EC25A-C13D-46D1-99FE-1649B1DD6D2F}|API_Service\\Base\\Base.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_service\\base\\iaccount\\iaccountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631EC25A-C13D-46D1-99FE-1649B1DD6D2F}|API_Service\\Base\\Base.csproj|solutionrelative:api_service\\base\\iaccount\\iaccountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_core\\api_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|solutionrelative:api_core\\api_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_core\\api_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|solutionrelative:api_core\\api_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726FEA07-75DA-4CAE-AFC2-4DABF8769035}|API_Service\\Core\\Core.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_service\\core\\models\\sample\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726FEA07-75DA-4CAE-AFC2-4DABF8769035}|API_Service\\Core\\Core.csproj|solutionrelative:api_service\\core\\models\\sample\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631EC25A-C13D-46D1-99FE-1649B1DD6D2F}|API_Service\\Base\\Base.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_service\\base\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631EC25A-C13D-46D1-99FE-1649B1DD6D2F}|API_Service\\Base\\Base.csproj|solutionrelative:api_service\\base\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_core\\api_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|solutionrelative:api_core\\api_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_core\\api_system\\api_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|solutionrelative:api_core\\api_system\\api_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|c:\\users\\eragon\\desktop\\basesetup_c#\\web_api\\api_core\\api_system\\api_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79DBDEDA-E58A-43A3-8598-545B1D7E963C}|API_Core\\API_System\\API_System.csproj|solutionrelative:api_core\\api_system\\api_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Base\\Class1.cs",
+              "RelativeDocumentMoniker": "API_Service\\Base\\Class1.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Base\\Class1.cs",
+              "RelativeToolTip": "API_Service\\Base\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:21:36.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Data\\AccountP\\AccountProvider.cs",
+              "RelativeDocumentMoniker": "API_Service\\Data\\AccountP\\AccountProvider.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Data\\AccountP\\AccountProvider.cs",
+              "RelativeToolTip": "API_Service\\Data\\AccountP\\AccountProvider.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:22:41.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountProvider.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Base\\IAccount\\IAccountProvider.cs",
+              "RelativeDocumentMoniker": "API_Service\\Base\\IAccount\\IAccountProvider.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Base\\IAccount\\IAccountProvider.cs",
+              "RelativeToolTip": "API_Service\\Base\\IAccount\\IAccountProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:18:01.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Core\\API_System\\appsettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\appsettings.json",
+              "RelativeToolTip": "API_Core\\API_System\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T17:14:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Core\\Models\\Account\\Account.cs",
+              "RelativeDocumentMoniker": "API_Service\\Core\\Models\\Account\\Account.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Core\\Models\\Account\\Account.cs",
+              "RelativeToolTip": "API_Service\\Core\\Models\\Account\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:11:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API_Core\\API_System\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API_Core\\API_System\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:08:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "API_System",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\API_System.csproj",
+              "RelativeDocumentMoniker": "API_Core\\API_System\\API_System.csproj",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\API_System.csproj",
+              "RelativeToolTip": "API_Core\\API_System\\API_System.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T17:08:18.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API_System.csproj",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\API_System.csproj",
+              "RelativeDocumentMoniker": "API_Core\\API_System\\API_System.csproj",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\API_System.csproj",
+              "RelativeToolTip": "API_Core\\API_System\\API_System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T16:59:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\Program.cs",
+              "RelativeDocumentMoniker": "API_Core\\API_System\\Program.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Core\\API_System\\Program.cs",
+              "RelativeToolTip": "API_Core\\API_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:52:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SampleClass.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Core\\Models\\Sample\\SampleClass.cs",
+              "RelativeDocumentMoniker": "API_Service\\Core\\Models\\Sample\\SampleClass.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\BaseSetup_C#\\Web_API\\API_Service\\Core\\Models\\Sample\\SampleClass.cs",
+              "RelativeToolTip": "API_Service\\Core\\Models\\Sample\\SampleClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:51:36.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

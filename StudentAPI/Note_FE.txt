@@ -1,0 +1,56 @@
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
+---------------ANGULAR----------------------
+---Cài đặt angular
+npm install -g @angular/cli
+
+---Tạo project:
+ng new DemoAngular
+
+---Chạy project:
+ng serve --open
+
+---Tạo các file:
+ng generate component account
+--------------------------------------------
+Validate Regex
+^((?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{6,20})$
+
+Kiểm tra HTTP
+/(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*))/
+Kiểm tra kí tự
+^[0-9]+$
+
+--------------------------------------------
+---Thư Viện 
+npm install primeng
+npm install primeicons
+npm install quill
+
+------Vào file angular.json 
+
+search architect rồi đến style và script
+    "styles": [
+              "src/styles.css",
+              "node_modules/primeng/resources/themes/lara-light-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css"
+            ],
+            "scripts": [
+              "node_modules/quill/dist/quill.js"
+            ]
+
+------Vào file app.config.ts Thêm
+     provideAnimation()
+
+
+------Vào file style.css Thêm
+
+/* css for icon */
+@import "primeicons/primeicons.css";
+
+/* css for quill */
+
+@import "quill/dist/quill.core.css";
+@import "quill/dist/quill.snow.css";
+

@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\services\\transactionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\services\\transactionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\helpers\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\dtos\\transactiondetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\dtos\\transactiondetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\models\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\models\\transactiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\services\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\services\\accountserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\services\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\services\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\converters\\dateconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\converters\\dateconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\accountbankapi\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9F4612DD-D207-4858-99FC-6825179C73C8}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Helpers\\MailHelper.cs",
+              "RelativeDocumentMoniker": "API\\Helpers\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Helpers\\MailHelper.cs",
+              "RelativeToolTip": "API\\Helpers\\MailHelper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:31:13.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "API\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:40:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\TransactionServiceImpl.cs",
+              "RelativeDocumentMoniker": "API\\Services\\TransactionServiceImpl.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\TransactionServiceImpl.cs",
+              "RelativeToolTip": "API\\Services\\TransactionServiceImpl.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAD4vzwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:09:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\TransactionDetail.cs",
+              "RelativeDocumentMoniker": "API\\Models\\TransactionDetail.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\TransactionDetail.cs",
+              "RelativeToolTip": "API\\Models\\TransactionDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:52:33.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\TransactionService.cs",
+              "RelativeToolTip": "API\\Services\\TransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:19:52.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\AccountServiceImpl.cs",
+              "RelativeDocumentMoniker": "API\\Services\\AccountServiceImpl.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\AccountServiceImpl.cs",
+              "RelativeToolTip": "API\\Services\\AccountServiceImpl.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:15:36.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\AccountService.cs",
+              "RelativeToolTip": "API\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:47:33.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Dtos\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\AccountDTO.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Dtos\\AccountDTO.cs",
+              "RelativeToolTip": "API\\Dtos\\AccountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:44:13.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAlwEoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:42:36.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T17:32:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Dtos\\TransactionDetailDTO.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\TransactionDetailDTO.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Dtos\\TransactionDetailDTO.cs",
+              "RelativeToolTip": "API\\Dtos\\TransactionDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:39:23.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:11:35.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\Account.cs",
+              "RelativeToolTip": "API\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:24:55.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "API\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "API\\Models\\DatabaseContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:28:50.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Dtos\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Dtos\\LoginDTO.cs",
+              "RelativeToolTip": "API\\Dtos\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:36:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:39:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "API\\Services\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Services\\Repository\\IRepository.cs",
+              "RelativeToolTip": "API\\Services\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:40:49.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DateConverters.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Converters\\DateConverters.cs",
+              "RelativeDocumentMoniker": "API\\Converters\\DateConverters.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Converters\\DateConverters.cs",
+              "RelativeToolTip": "API\\Converters\\DateConverters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:39:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T12:42:31.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T12:49:41.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\AccountBankAPI\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-04T07:39:37.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

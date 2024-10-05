@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\services\\courseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\services\\courseserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\services\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\services\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\dtos\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\studentapi_be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\studentapi_be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|c:\\users\\eragon\\desktop\\api angular dotnet\\studentapi\\studentapi_be\\studentapi_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D8C867F-74A7-4625-9FBD-5CAC6395EA35}|StudentAPI_BE\\StudentAPI_BE.csproj|solutionrelative:studentapi_be\\studentapi_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Dtos\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Dtos\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Dtos\\StudentDTO.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Dtos\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:30:35.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:06:41.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\CourseServiceImpl.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Services\\CourseServiceImpl.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\CourseServiceImpl.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Services\\CourseServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:27:55.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAASwF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:51:23.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\CourseService.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:27:27.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:26:27.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Program.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Program.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:55:23.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\StudentServiceImpl.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Services\\StudentServiceImpl.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Services\\StudentServiceImpl.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Services\\StudentServiceImpl.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDYAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:35:58.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Dtos\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Dtos\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Dtos\\CourseDTO.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Dtos\\CourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:32:43.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Models\\DatabaseContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:03:53.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentAPI_BE\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T17:03:13.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:05:46.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:30:45.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Dtos\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Dtos\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Dtos\\MappingProfile.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Dtos\\MappingProfile.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:34:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\appsettings.json",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\appsettings.json",
+              "RelativeToolTip": "StudentAPI_BE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T16:22:27.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\Models\\Course.cs",
+              "RelativeToolTip": "StudentAPI_BE\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:31:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentAPI_BE.http",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\StudentAPI_BE.http",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\StudentAPI_BE.http",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\StudentAPI_BE.http",
+              "RelativeToolTip": "StudentAPI_BE\\StudentAPI_BE.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-08T17:03:02.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentAPI_BE.csproj",
+              "DocumentMoniker": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\StudentAPI_BE.csproj",
+              "RelativeDocumentMoniker": "StudentAPI_BE\\StudentAPI_BE.csproj",
+              "ToolTip": "C:\\Users\\ERAGON\\Desktop\\API Angular DotNet\\StudentAPI\\StudentAPI_BE\\StudentAPI_BE.csproj",
+              "RelativeToolTip": "StudentAPI_BE\\StudentAPI_BE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T16:21:54.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

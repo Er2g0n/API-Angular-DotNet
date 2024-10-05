@@ -1,0 +1,15 @@
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\bin\Debug\net8.0\Base.deps.json
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\bin\Debug\net8.0\Base.dll
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\bin\Debug\net8.0\Base.pdb
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\bin\Debug\net8.0\Core.dll
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\bin\Debug\net8.0\Core.pdb
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.csproj.AssemblyReference.cache
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.AssemblyInfoInputs.cache
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.AssemblyInfo.cs
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.csproj.CoreCompileInputs.cache
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.csproj.Up2Date
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.dll
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\refint\Base.dll
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\Base.pdb
+C:\Users\ERAGON\Desktop\BaseSetup\Web_API\API_Service\Base\obj\Debug\net8.0\ref\Base.dll

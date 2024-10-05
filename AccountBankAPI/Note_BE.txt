@@ -1,0 +1,89 @@
+1. Cai cac thu vien can thiet:
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.Proxies
+
+2. Su dung cau lenh command ben duoi:
+Scaffold-DbContext "Server=Eragon\SQLEXPRESS;Database=AccountBankAPI;user id=hai;password=123;trusted_connection=true;encrypt=false" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context DatabaseContext -f
+
+-f la co dung de override class da co trong thu muc Model 
+
+3.Chuoi ket noi:
+"ConnectionStrings": {
+    "DefaultConnection": "Server=.;Database=Database2;user id=sa;password=123456;trusted_connection=true;encrypt=false"
+  }
+----------------------------------------
+---Mã hóa password
+BCrypt.Net-Core
+---Thư viện Swashbuckle.AspNetCore
+Tạo tài liệu API tự động.
+Cung cấp giao diện Swagger UI để thử nghiệm các API.
+Hỗ trợ xác thực và bảo mật.
+Tùy chỉnh tài liệu API một cách linh hoạt.
+----------------------------------------
+1. Cài Thư Viên sau trong Nuget: Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 
+
+2. Thêm cấu hình vào program như bên dưới:
+  builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+3. Trong layout sử dụng cấu trúc sau để gọi partial view:
+  <partial name="~/Views/Shared/Menu.cshtml"></partial>
+  <br />
+  <partial name="Menu.cshtml"></partial>
+  <br />
+  <partial name="Menu"></partial>
+  <br />
+
+AutoMapper.Extensions.Microsoft.DependencyInjection
+
+
+Microsoft.AspNetCore.Authentication.JwtBearer
+"Jwt": {
+  "Key": "",
+  "Audience": "https://abc.com/",
+  "Issuer": "https://def.com/"
+}
+
+
+Newtonsoft.json
+
+AutoMapper
+--------------------------------------------
+--------------------------------------------
+--------------------------------------------
+---------------ANGULAR----------------------
+---Cài đặt angular
+npm install -g @angular/cli
+
+---Tạo project:
+ng new DemoAngular
+
+---Chạy project:
+ng serve --open
+
+---Tạo các file:
+ng generate create account
+--------------------------------------------Validate Regex
+^((?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{6,20})$
+
+Kiểm tra HTTP
+/(https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*))/
+Kiểm tra kí tự
+^[0-9]+$
+
+--------------------------------------------
+---Cho Phép bên ngoài API vào 
+builder.Services.AddCors();
+
+---Cấu hình để bên ngoài vào API
+app.UseCors(builder => builder
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .SetIsOriginAllowed((host) => true)
+                .AllowCredentials()
+            );
+
+---Hỏi ChatGPT
+provideHttpClient(withFetch()),
